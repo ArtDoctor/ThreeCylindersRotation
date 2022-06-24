@@ -1,0 +1,20 @@
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.exe.config
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.exe
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.pdb
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.AssemblyReference.cache
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.Form1.resources
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.Properties.Resources.resources
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.GenerateResource.cache
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.CoreCompileInputs.cache
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.exe
+C:\Users\HectorPhD\Desktop\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.pdb
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.exe.config
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.exe
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\bin\Debug\ComputerProject_ThreeCircles.pdb
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.AssemblyReference.cache
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.Form1.resources
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.Properties.Resources.resources
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.GenerateResource.cache
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.csproj.CoreCompileInputs.cache
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.exe
+C:\Users\HectorPhD\Documents\MEGAsync\LIT\Комп'ютерний проект\ComputerProject_ThreeCircles\ComputerProject_ThreeCircles\obj\Debug\ComputerProject_ThreeCircles.pdb
